@@ -21,9 +21,6 @@ desktop access and the 10 articles with the fewest months of data for mobile acc
 # Setup
 The code will run in order properly. Just make sure not to skip any steps as loading in a json will cause the string splitting to get disrupted. 
 
-# Results
-
-
 # Relevant API Documentation
 Terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions for the Wiki REST API
 
