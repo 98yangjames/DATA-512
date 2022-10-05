@@ -4,7 +4,7 @@ The first graph should contain time series
 for the articles that have the highest average page requests and the lowest average page
 requests for desktop access and mobile access. Your graph should have four lines (max
 desktop, min desktop, max mobile, min mobile).
-#Top 10 Peak Page Views - 
+# Top 10 Peak Page Views - 
 The second graph should contain time series for the top 10
 article pages by largest (peak) page views over the entire time by access type. You first find
 the month for each article that contains the highest (peak) page views, and then order the
