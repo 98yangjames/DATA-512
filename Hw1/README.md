@@ -1,6 +1,5 @@
-# Setup
-The code will run in order properly. Just make sure not to skip any steps as loading in a json will cause the string splitting to get disrupted. 
-
+## Goal
+The goal of this project is to parse data from the Wikimedia Foundation REST API
 
 # Maximum Average and Minimum Average - 
 The first graph should contain time series
@@ -18,3 +17,10 @@ The third graph should show pages that have the fewest months
 of available data. These will all be relatively short time series, some may only have one
 month of data. Your graph should show the 10 articles with the fewest months of data for
 desktop access and the 10 articles with the fewest months of data for mobile access.
+
+# Setup
+The code will run in order properly. Just make sure not to skip any steps as loading in a json will cause the string splitting to get disrupted. 
+
+
+
+terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
