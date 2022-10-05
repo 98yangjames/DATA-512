@@ -1,3 +1,6 @@
+# Setup
+The code will run in order properly. Just make sure not to skip any steps as loading in a json will cause the string splitting to get disrupted. 
+
 
 # Maximum Average and Minimum Average - 
 The first graph should contain time series
