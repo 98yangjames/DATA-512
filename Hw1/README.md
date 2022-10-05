@@ -1,5 +1,5 @@
 ## Goal
-The goal of this project is to parse data from the Wikimedia Foundation REST API and analyze the following:
+The goal of this project is to parse data from the Wikimedia Foundation REST API from a list of dinosaurs (dinosaur_genera.cleaned.SEPT.2022 - dinosaur_genera.cleaned.SEPT.2022.csv) and analyze the following:
 
 1. Maximum Average and Minimum Average - 
 The first graph should contain time series
