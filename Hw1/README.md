@@ -48,9 +48,14 @@ Code example developed by Dr. David W. McDonald for use in DATA 512, a course in
 # Results
 
 ![plot1](https://user-images.githubusercontent.com/45018941/194203434-7ce1cd30-aa56-4709-9290-1e8e5dc700ea.png)
+
 This is plot 1
+
 ![plot2](https://user-images.githubusercontent.com/45018941/194203438-4c9dae22-01fd-4192-85bc-4e1739d2a803.png)
+
 This is plot 2
+
 ![plot3](https://user-images.githubusercontent.com/45018941/194203449-f0e09ae8-a0fe-4ad2-96e0-252b473ab30e.png)
+
 This is plot 3
 
