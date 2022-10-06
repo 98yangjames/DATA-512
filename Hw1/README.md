@@ -22,7 +22,7 @@ desktop access and the 10 articles with the fewest months of data for mobile acc
 The code will run in order properly. Just make sure not to skip any steps as loading in a json will cause the string splitting to get disrupted. 
 
 # Data Description
-dinosaur_genera.cleaned.SEPT.2022 - dinosaur_genera.cleaned.SEPT.2022.csv - This csv contains a dataset of the dinosaurs that are being used for the API call.
+**dinosaur_genera.cleaned.SEPT.2022 - dinosaur_genera.cleaned.SEPT.2022.csv** - This csv contains a dataset of the dinosaurs that are being used for the API call.
 
 **dino_monthly_cumulative__201501-202209.json**- This json contains the pulled dictionary values from the wikipedia dataset.
 
