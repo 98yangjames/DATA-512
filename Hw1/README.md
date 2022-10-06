@@ -18,8 +18,26 @@ of available data. These will all be relatively short time series, some may only
 month of data. Your graph should show the 10 articles with the fewest months of data for
 desktop access and the 10 articles with the fewest months of data for mobile access.
 
-# Setup
+# Reproduce Analysis
 The code will run in order properly. Just make sure not to skip any steps as loading in a json will cause the string splitting to get disrupted. 
+
+# Data Description
+dinosaur_genera.cleaned.SEPT.2022 - dinosaur_genera.cleaned.SEPT.2022.csv - This csv contains a dataset of the dinosaurs that are being used for the API call.
+
+dino_monthly_cumulative__201501-202209.json - This json contains the pulled dictionary values from the wikipedia dataset.
+
+dino_monthly_desktop_201501-202209.json - This json contains the pulled dictionary values from the wikipedia dataset.
+
+dino_monthly_mobile__201501-202209.json - This json contains the pulled dictionary values from the wikipedia dataset.
+
+The format for all of these jsons is:
+        "project": "en.wikipedia",
+        "article": Title,
+        "granularity": "monthly",
+        "timestamp": YYYYMMDDSS,
+        "access": access type,
+        "agent": "user",
+        "views": x
 
 # Relevant API Documentation
 Terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions for the Wiki REST API
