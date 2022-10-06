@@ -24,11 +24,11 @@ The code will run in order properly. Just make sure not to skip any steps as loa
 # Data Description
 dinosaur_genera.cleaned.SEPT.2022 - dinosaur_genera.cleaned.SEPT.2022.csv - This csv contains a dataset of the dinosaurs that are being used for the API call.
 
-dino_monthly_cumulative__201501-202209.json - This json contains the pulled dictionary values from the wikipedia dataset.
+**dino_monthly_cumulative__201501-202209.json **- This json contains the pulled dictionary values from the wikipedia dataset.
 
-dino_monthly_desktop_201501-202209.json - This json contains the pulled dictionary values from the wikipedia dataset.
+**dino_monthly_desktop_201501-202209.json ** - This json contains the pulled dictionary values from the wikipedia dataset.
 
-dino_monthly_mobile__201501-202209.json - This json contains the pulled dictionary values from the wikipedia dataset.
+**dino_monthly_mobile__201501-202209.json** - This json contains the pulled dictionary values from the wikipedia dataset.
 
 The format for all of these jsons is:
         "project": "en.wikipedia",
