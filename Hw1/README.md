@@ -39,7 +39,13 @@ The format for all of these jsons is:
         "agent": "user",
         "views": x
 
-# Relevant API Documentation
+# Attributions and Provenance Informations
+
 Terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions for the Wiki REST API
 
 Code example developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the Creative Commons CC-BY license. Revision 1.1 - May 5, 2022
+
+![plot1](https://user-images.githubusercontent.com/45018941/194203434-7ce1cd30-aa56-4709-9290-1e8e5dc700ea.png)
+![plot2](https://user-images.githubusercontent.com/45018941/194203438-4c9dae22-01fd-4192-85bc-4e1739d2a803.png)
+![plot3](https://user-images.githubusercontent.com/45018941/194203449-f0e09ae8-a0fe-4ad2-96e0-252b473ab30e.png)
+
