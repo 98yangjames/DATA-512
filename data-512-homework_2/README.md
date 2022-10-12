@@ -10,6 +10,7 @@ You are also expected to write a short reflection on the project that focuses on
 ## Write-up, Reflections and Implications
 
 **1. What might your results suggest about (English) Wikipedia as a data source?**
+
 Interestingly enough, people who browse english wikipedia seemingly don't create higher quality articles for North America. They create higher quality articles for middle eastern countries such as Iraq and Pakistan. This may have been a result of wikipedia being more popularly used during the eras of the Iraq War and political debacles during this time, and the desire to retain more information regarding American soldiers and subsidies.
 
 **2. How might a researcher supplement or transform this dataset to potentially correct for the limiations/biases you observed?**
