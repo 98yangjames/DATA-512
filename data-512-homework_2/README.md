@@ -27,5 +27,11 @@ The results may indiciate that there is a general population that uses Wikipedia
 2. DO NOT SKIP STEPS. Some of the variables are being manipulated in an effort to satisfy the requirements of the assignment.
 3. The outputs are already premade and the files are already produced in the folder.
 
+## API INFO
+[MediaWiki REST API for the EN Wikipedia](https://www.mediawiki.org/wiki/API:Main_page). The API documentation, [API:Info](https://www.mediawiki.org/wiki/API:Info)
+
+## License
+This code example was developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.0 - May 13, 2022
+
 
 
