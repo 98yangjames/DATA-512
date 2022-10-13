@@ -21,5 +21,11 @@ A researcher may implement more features utilizing more language based wikipedia
 
 The results may indiciate that there is a general population that uses Wikipedia and they seem to orient themselves towards specific articles in specific regions. In the case of the results that we got here, there isn't that much high quality information on the east asian region, which could be due to the geopolitical status of China and how a lot of their information is restricted or hidden. Access to this information can be sensitive which is why Wikipedia doesn't have that much verified documentation on countries in these territories. It suggests that Wikipedia can only go as far as the general public lets it, and how society can in turn affect how much information and how much high quality content is put on their web domain. 
 
-## How to Run this
+## Steps to Procedure
+
+1. Run the code entry by entry
+2. DO NOT SKIP STEPS. Some of the variables are being manipulated in an effort to satisfy the requirements of the assignment.
+3. The outputs are already premade and the files are already produced in the folder.
+
+
 
