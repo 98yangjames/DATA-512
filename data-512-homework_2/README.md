@@ -15,7 +15,7 @@ Interestingly enough, people who browse english wikipedia seemingly don't create
 
 **2. How might a researcher supplement or transform this dataset to potentially correct for the limiations/biases you observed?**
 
-A researcher may implement more features utilizing more language based wikipedia pulls other than just English. Limiting a sample size to just one langauge is already inheirently bias, and incorporating more languages used and browsed upon can mitigate some of that bias created. They can also transform this dataset to incorporate wikipedia off branches including Wikidata, Wikinews, Wikisource, etc. These can supplement different types of features which do incorporate answers and results from more than just english.
+A researcher may implement more features utilizing more language based wikipedia pulls other than just English. Limiting a sample size to just one langauge is already inheirently bias, and incorporating more languages used and browsed upon can mitigate some of that bias created. They can also transform this dataset to incorporate wikipedia off branches including Wikidata, Wikinews, Wikisource, etc. These can supplement different types of features which do incorporate answers and results from more than just english. Another thing to consider is the fact that the population is so small but yet the number of clicks could be arbitrarily high relative to the population that it makes it shoot up in per capita.
 
 **3. What might your results suggest about the internet and global society in general?**
 
