@@ -23,7 +23,7 @@ The results may indiciate that there is a general population that uses Wikipedia
 
 ## Steps to Procedure
 
-1. Run the code entry by entry
+1. Run the code entry by entry (final.ipynb)
 2. DO NOT SKIP STEPS. Some of the variables are being manipulated in an effort to satisfy the requirements of the assignment.
 3. The outputs are already premade and the files are already produced in the folder.
 
