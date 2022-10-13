@@ -7,10 +7,19 @@ You are expected to perform an analysis of how the coverage of politicians on Wi
 3. A ranking of geographic regions by articles-per-person and proportion of high quality articles.
 You are also expected to write a short reflection on the project that focuses on how both your findings from this analysis and the process you went through to reach those findings helps you understand the causes and consequences of biased data in large, complex data science projects.
 
-## Write-up, Reflections and Implications
+## Research Implications
 
 **1. What might your results suggest about (English) Wikipedia as a data source?**
 
 Interestingly enough, people who browse english wikipedia seemingly don't create higher quality articles for North America. They create higher quality articles for middle eastern countries such as Iraq and Pakistan. This may have been a result of wikipedia being more popularly used during the eras of the Iraq War and political debacles during this time, and the desire to retain more information regarding American soldiers and subsidies.
 
 **2. How might a researcher supplement or transform this dataset to potentially correct for the limiations/biases you observed?**
+
+A researcher may implement more features utilizing more language based wikipedia pulls other than just English. Limiting a sample size to just one langauge is already inheirently bias, and incorporating more languages used and browsed upon can mitigate some of that bias created. They can also transform this dataset to incorporate wikipedia off branches including Wikidata, Wikinews, Wikisource, etc. These can supplement different types of features which do incorporate answers and results from more than just english.
+
+**3. What might your results suggest about the internet and global society in general?**
+
+The results may indiciate that there is a general population that uses Wikipedia and they seem to orient themselves towards specific articles in specific regions. In the case of the results that we got here, there isn't that much high quality information on the east asian region, which could be due to the geopolitical status of China and how a lot of their information is restricted or hidden. Access to this information can be sensitive which is why Wikipedia doesn't have that much verified documentation on countries in these territories. It suggests that Wikipedia can only go as far as the general public lets it, and how society can in turn affect how much information and how much high quality content is put on their web domain. 
+
+## How to Run this
+
