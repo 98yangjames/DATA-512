@@ -1,3 +1,7 @@
+# Note:
+Because github can't upload larger files, please download the **U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv** and put it in the root of the folder.
+
+
 # Task
 This repo analyzes the COVID rates of New Jersey in the county of Bergen. We create a time series showing the changes in the derivative function of the rate of infection, and have a data cleaning and data analytics portion as well. 
 
