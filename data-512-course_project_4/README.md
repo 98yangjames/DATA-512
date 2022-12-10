@@ -11,4 +11,11 @@ The goal of this project is determining the implications of temperature and whet
 
 **flu-ili-byregion-fluseason.csv** is the dataset from the New Jersey set of illness data collectors. NJSHAD. (https://www-doh.state.nj.us/doh-shad/indicator/view/PneuFluDeath.Trend.html)
 
+**temperature.csv** is a dataset of temperature for the state of New Jersey on average between 2019-2021 from the Rutgers monthly climate tables (https://climate.rutgers.edu/stateclim_v1/nclimdiv/).
 
+# Procedures
+First we clean the 3 datasets (Kaggle, CDC, and NYT) to decipher the county of Bergen, NJ. Once we do so, we manipulate the dataset to represent its confirmed cases, rates, and plot the identifying characteristics of the county.
+
+Once we do that, we compare the data to the New Jersey state of FLU cases and the temperature during these seasons. By manipulating the dataframe, we can identify matching sets of values for the years of 2019-2021. 
+
+After matching the two sets of data, we run a hypothesis test and give a comparing result found in the final_report.pdf document. 
