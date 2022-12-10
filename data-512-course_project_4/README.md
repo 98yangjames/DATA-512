@@ -22,3 +22,5 @@ After matching the two sets of data, we run a hypothesis test and give a compari
 
 # Final Report
 The final report goes over the following sections: Introduction, Background, Methodology, findings, discussions/implications, limitations, conclusion, references, and data sources. 
+
+In here, we are able to create a hypothesis test environment that pulls from the context found in the data cleaning and manipulation from the jupyter notebooks. The task overall covers the affects of temperature and how it changes the rates of confirmed disease cases with regards to both COVID-19 and the cold.
