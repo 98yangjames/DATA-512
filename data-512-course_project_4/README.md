@@ -19,3 +19,6 @@ First we clean the 3 datasets (Kaggle, CDC, and NYT) to decipher the county of B
 Once we do that, we compare the data to the New Jersey state of FLU cases and the temperature during these seasons. By manipulating the dataframe, we can identify matching sets of values for the years of 2019-2021. 
 
 After matching the two sets of data, we run a hypothesis test and give a comparing result found in the final_report.pdf document. 
+
+# Final Report
+The final report goes over the following sections: Introduction, Background, Methodology, findings, discussions/implications, limitations, conclusion, references, and data sources. 
